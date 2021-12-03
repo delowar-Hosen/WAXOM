@@ -1,0 +1,73 @@
+
+.banner-main .banner-item h1 {
+	color: #ffffff;
+}
+
+.banner-main .banner-item a {
+	color: #ffffff;
+}
+
+#about .about-item h3 {
+	color: #ffffff;
+	
+}
+
+.common-head h4 {
+	color: #ffffff;
+}
+
+#poject .button-all button {
+	color: #ffffff;
+}
+
+#poject .poject-all .poject-item h4 {
+	color: #ffffff;
+}
+
+#poject .poject-all .poject-item h4 {
+	color: #ffffff;
+}
+
+#poject .poject-all .poject-overlay {
+	background: rgba(0, 0, 0, 0.7);
+}
+
+#video .video-content h5 {
+	color: #ffffff;
+}
+
+#count .count-item h6 {
+	color: #ffffff;
+}
+
+#count .count-item h6 {
+	color: #ffffff;
+}
+
+#posting .posting-content a {
+	color: #ffffff;
+}
+
+#posting .posting-img::after {
+	background: rgba(0, 0, 0, 0.7);
+}
+
+.footer-head h5 {
+	color: #ffffff;
+}
+
+#footer .footer-first a {
+	color: #ffffff;
+}
+
+#copy {
+	border-top: 1px solid #ffffff;
+}
+
+.main-menu .navbar-nav .nav-link:hover {
+	color: #ffffff;
+}
+
+.type{
+    color: #ffffff;
+}
